@@ -16,8 +16,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">💻 Just a tech guy who loves building cool stuff and breaking things (then fixing them better).<br>⚡ Into AI, data visualization, and making web apps that actually feel alive.<br>🎮 Big fan of gaming, gadgets, and tuning hardware just for fun.<br>🎧 Music + coding = perfect combo for me.<br>🌐 Always exploring new tools, frameworks, and ideas — if it’s tech, I’m curious.<br>🎲 Fun fact: I debug like a detective, code like an artist, and break things like it's a feature 😏.<br>   # Eat( ); Sleep( ); Code( );Repeat( )</p>
 
 ###
