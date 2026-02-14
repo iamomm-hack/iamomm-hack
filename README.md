@@ -2,7 +2,11 @@
 
 ###
 
-<h6 align="left">Trying to do Better</h6>
+<h3 align="center">WEB3 Developer • Full-Stack Developer • IoT Enthusiast • Builder Mindset </h3>
+
+<p align="center">
+Trying to do Better
+</p>
 
 ###
 
