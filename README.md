@@ -119,15 +119,14 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamomm-hack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=iamomm-hack&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamomm-hack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-</div>
+  <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamomm-hack&show_icons=true&theme=dracula&cache_seconds=1800" height="150" /> <br>
+  <img src="https://streak-stats.demolab.com?user=iamomm-hack&theme=dracula&cache_seconds=1800" height="150" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomm-hack&layout=compact&theme=radical&cache_seconds=1800" height="150" /> <br> </div> <div align="center">
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:iamomm-hack?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:iamomm-hack?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
 
 ###
