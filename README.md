@@ -1,14 +1,18 @@
-<h1 align="center">👋 Hi, I'm Om Kumar</h1>
+<h1 align="center">
+  Hi, I'm Om Kumar 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 ###
 
-<h3 align="center">WEB3 Developer • Full-Stack Developer • IoT Enthusiast • Builder Mindset </h3>
+<h3 align="center">WEB3 Developer • Full-Stack Developer • IoT Enthusiast • Builder Mindset</h3>
 
 <p align="center">
 Trying to do Better
 </p>
 
 ###
+
 
 <h2 align="left">About me</h2>
 
