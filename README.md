@@ -112,23 +112,20 @@
 
 ###
 
-<h2 align="left">Github Stats</h2>
-
-###
 
 <br clear="both">
 
-## Github Stats
+<h2 align="left">Github Stats</h2>
 
 <br clear="both">
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamomm-hack&show_icons=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamomm-hack&show_icons=true&theme=dracula" height="150" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iamomm-hack&theme=dracula" height="150" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamomm-hack&layout=compact&theme=radical" height="150" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomm-hack&layout=compact&theme=radical" height="150" />
+<img src="https://streak-stats.demolab.com?user=iamomm-hack&theme=dracula" height="150" />
 
 </div>
 
