@@ -25,7 +25,16 @@ Trying to do Better
 
 ###
 
-<p align="left">💻 Just a tech guy who loves building cool stuff and breaking things (then fixing them better).<br>⚡ Focused on Web3, full-stack development, and intelligent systems — I enjoy designing scalable architectures and building products that solve real problems.<br>🎮 Big fan of gaming, gadgets, and tuning hardware just for fun.<br>🎧 Music + coding = perfect combo for me.<br>🌐 Always exploring new tools, frameworks, and ideas — if it’s tech, I’m curious.<br>🎲 Fun fact: I debug like a detective, code like an artist, and break things like it's a feature 😏.<br>   ##I don’t just write code — I build, break, optimize, and ship.</p>
+<p align="left">
+💻 Just a tech enthusiast who loves building cool things — and breaking them (then making them better).<br>
+⚡ Focused on Web3, full-stack development, and intelligent systems — I enjoy designing scalable architectures and building products that solve real-world problems.<br>
+🎮 Big fan of gaming, gadgets, and tweaking hardware just for fun.<br>
+🎧 Music + coding = my perfect workflow.<br>
+🚀 Always exploring new tools, frameworks, and ideas — if it’s tech, I’m curious.<br>
+🕵️ Debug like a detective, code like an artist, and break things like it’s a feature 😏<br>
+🔥 I don’t just write code — I build, break, optimize, and ship.<br>
+🌐 <b>Dive into my work & projects:</b> <a href="https://www.iamom.tech/" target="_blank">iamom.tech</a>
+</p>
 
 ###
 
