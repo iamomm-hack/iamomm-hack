@@ -110,7 +110,7 @@ Trying to do Better
   <a href="https://www.linkedin.com/in/om-kumar16/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/itzz_me_omm" target="_blank">
+  <a href="https://x.com/omdotcmd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="iamkumarom.edu@gmail.com" target="_blank">
