@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./om-kumar-hero-3d.png" alt="Futuristic cyan and violet 3D developer environment" width="100%" />
+
+<br />
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Waving hand" /> Hi, I'm Om Kumar
 
 ### Web3 Developer · Full-Stack Developer · IoT Enthusiast · Builder Mindset
@@ -15,7 +19,9 @@
   <a href="https://www.iamom.tech/">
     <img src="https://img.shields.io/badge/Portfolio-iamom.tech-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=ffffff" alt="Portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=iamomm-hack&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/iamomm-hack">
+    <img src="https://img.shields.io/github/commit-activity/y/iamomm-hack/iamomm-hack?style=for-the-badge&color=00e5ff&label=ACTIVITY" alt="Yearly GitHub activity" />
+  </a>
 </p>
 
 <p>
@@ -157,7 +163,7 @@ I’m equally happy exploring a new framework, tuning hardware, debugging a stub
 </div>
 
 <!--
+  Put om-kumar-hero-3d.png in the same repository folder as README.md.
   Profile: https://github.com/iamomm-hack
   Portfolio: https://www.iamom.tech/
-  Contribution visuals: activity graph and profile summary cards
 -->
