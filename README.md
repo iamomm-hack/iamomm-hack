@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./om-kumar-hero-3d.png" alt="Futuristic cyan and violet 3D developer environment" width="100%" />
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663896798859/XYXGLBbLWvieepUE.png" alt="Futuristic cyan and violet 3D developer environment" width="100%" />
 
 <br />
 
@@ -14,24 +14,24 @@
 
 <p>
   <a href="https://github.com/iamomm-hack">
-    <img src="https://img.shields.io/badge/GitHub-iamomm--hack-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/IDENTITY-iamomm--hack-7c3aed?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050816" alt="GitHub identity: iamomm-hack" />
   </a>
   <a href="https://www.iamom.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-iamom.tech-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=ffffff" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-iamom.tech-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=050816&labelColor=050816" alt="Portfolio: iamom.tech" />
   </a>
   <a href="https://github.com/iamomm-hack">
-    <img src="https://img.shields.io/github/commit-activity/y/iamomm-hack/iamomm-hack?style=for-the-badge&color=00e5ff&label=ACTIVITY" alt="Yearly GitHub activity" />
+    <img src="https://img.shields.io/github/commit-activity/y/iamomm-hack/iamomm-hack?style=for-the-badge&color=ff2d95&label=BUILD%20ACTIVITY&logo=github&logoColor=ffffff&labelColor=050816" alt="Yearly GitHub build activity" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/iamomm-hack?tab=followers">
-    <img src="https://img.shields.io/github/followers/iamomm-hack?style=flat-square&label=Followers&color=7c3aed" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/iamomm-hack?style=for-the-badge&label=FOLLOWERS&color=7c3aed&logo=github&logoColor=ffffff&labelColor=050816" alt="GitHub followers" />
   </a>
   <a href="https://github.com/iamomm-hack?tab=repositories">
-    <img src="https://img.shields.io/github/stars/iamomm-hack?style=flat-square&label=Total%20Stars&color=f59e0b" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/iamomm-hack?style=for-the-badge&label=TOTAL%20STARS&color=f59e0b&logo=starship&logoColor=050816&labelColor=050816" alt="Total GitHub stars" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Web3%20%7C%20Full--Stack%20%7C%20IoT-111827?style=flat-square" alt="Current focus" />
+  <img src="https://img.shields.io/badge/FOCUS-Web3%20%7C%20Full--Stack%20%7C%20IoT-111827?style=for-the-badge&logo=vercel&logoColor=00e5ff&labelColor=050816" alt="Current focus: Web3, Full-Stack, IoT" />
 </p>
 
 </div>
@@ -163,7 +163,7 @@ I’m equally happy exploring a new framework, tuning hardware, debugging a stub
 </div>
 
 <!--
-  Put om-kumar-hero-3d.png in the same repository folder as README.md.
+  The hero visual is hosted at a stable CDN URL so it renders even when only README.md is uploaded.
   Profile: https://github.com/iamomm-hack
   Portfolio: https://www.iamom.tech/
 -->
