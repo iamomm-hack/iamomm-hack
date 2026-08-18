@@ -207,7 +207,7 @@ I’m equally happy exploring a new framework, tuning hardware, debugging a stub
   <a href="mailto:iamkumarom.edu@gmail.com" title="Email">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/gmail.svg" width="42" alt="Email" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/omm.spxm/" title="Instagram">
+  <a href="https://www.instagram.com/omdotcmd/" title="Instagram">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://linktr.ee/iamkumarom" title="Linktree">
