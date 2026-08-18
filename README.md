@@ -1,10 +1,19 @@
-<h1 align="left">👋 Hi, I'm Om Kumar</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi, I'm Om Kumar
+</h1>
 
 ###
 
-<h6 align="left">Trying to do Better</h6>
+<h3 align="center">WEB3 Developer • Full-Stack Developer • IoT Enthusiast • Builder Mindset</h3>
+
+<p align="center">
+Trying to do Better
+</p>
 
 ###
+
+
 
 <h2 align="left">About me</h2>
 
@@ -16,7 +25,16 @@
 
 ###
 
-<p align="left">💻 Just a tech guy who loves building cool stuff and breaking things (then fixing them better).<br>⚡ Into AI, data visualization, and making web apps that actually feel alive.<br>🎮 Big fan of gaming, gadgets, and tuning hardware just for fun.<br>🎧 Music + coding = perfect combo for me.<br>🌐 Always exploring new tools, frameworks, and ideas — if it’s tech, I’m curious.<br>🎲 Fun fact: I debug like a detective, code like an artist, and break things like it's a feature 😏.<br>   # Eat( ); Sleep( ); Code( );Repeat( )</p>
+<p align="left">
+💻 Just a tech enthusiast who loves building cool things — and breaking them (then making them better).<br>
+⚡ Focused on Web3, full-stack development, and intelligent systems — I enjoy designing scalable architectures and building products that solve real-world problems.<br>
+🎮 Big fan of gaming, gadgets, and tweaking hardware just for fun.<br>
+🎧 Music + coding = my perfect workflow.<br>
+🚀 Always exploring new tools, frameworks, and ideas — if it’s tech, I’m curious.<br>
+🕵️ Debug like a detective, code like an artist, and break things like it’s a feature 😏<br>
+🔥 I don’t just write code — I build, break, optimize, and ship.<br>
+🌐 <b>Dive into my work & projects:</b> <a href="https://www.iamom.tech/" target="_blank">iamom.tech</a>
+</p>
 
 ###
 
@@ -92,7 +110,7 @@
   <a href="https://www.linkedin.com/in/om-kumar16/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/itzz_me_omm" target="_blank">
+  <a href="https://x.com/omdotcmd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="iamkumarom.edu@gmail.com" target="_blank">
