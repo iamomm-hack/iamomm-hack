@@ -97,27 +97,27 @@ I’m equally happy exploring a new framework, tuning hardware, debugging a stub
 ### Blockchain & Web3
 
 <p>
-  <a href="https://ethereum.org/"><img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=050816" height="30" alt="Ethereum" /></a>
-  <a href="https://solana.com/"><img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=050816" height="30" alt="Solana" /></a>
-  <a href="https://stellar.org/"><img src="https://img.shields.io/badge/Stellar-111827?style=for-the-badge&logo=stellar&logoColor=white&labelColor=050816" height="30" alt="Stellar" /></a>
-  <a href="https://base.org/"><img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white&labelColor=050816" height="30" alt="Base" /></a>
-  <a href="https://aptos.dev/"><img src="https://img.shields.io/badge/Aptos-16A085?style=for-the-badge&logo=aptos&logoColor=white&labelColor=050816" height="30" alt="Aptos" /></a>
-  <a href="https://polygon.technology/"><img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white&labelColor=050816" height="30" alt="Polygon" /></a>
-  <a href="https://arbitrum.io/"><img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white&labelColor=050816" height="30" alt="Arbitrum" /></a>
-  <a href="https://www.optimism.io/"><img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white&labelColor=050816" height="30" alt="Optimism" /></a>
-  <a href="https://www.avax.network/"><img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white&labelColor=050816" height="30" alt="Avalanche" /></a>
-  <a href="https://near.org/"><img src="https://img.shields.io/badge/NEAR-111827?style=for-the-badge&logo=near&logoColor=white&labelColor=050816" height="30" alt="NEAR Protocol" /></a>
-  <a href="https://sui.io/"><img src="https://img.shields.io/badge/Sui-6FBCF0?style=for-the-badge&logo=sui&logoColor=white&labelColor=050816" height="30" alt="Sui" /></a>
-  <a href="https://www.cosmos.network/"><img src="https://img.shields.io/badge/Cosmos-2E3148?style=for-the-badge&logo=cosmos&logoColor=white&labelColor=050816" height="30" alt="Cosmos" /></a>
-  <a href="https://chain.link/"><img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=050816" height="30" alt="Chainlink" /></a>
-  <a href="https://ipfs.tech/"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white&labelColor=050816" height="30" alt="IPFS" /></a>
-  <a href="https://metamask.io/"><img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white&labelColor=050816" height="30" alt="MetaMask" /></a>
-  <a href="https://hardhat.org/"><img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=111827&labelColor=050816" height="30" alt="Hardhat" /></a>
-  <a href="https://ethers.org/"><img src="https://img.shields.io/badge/Ethers.js-111827?style=for-the-badge&logo=ethers&logoColor=white&labelColor=050816" height="30" alt="Ethers.js" /></a>
-  <a href="https://web3js.org/"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=050816" height="30" alt="Web3.js" /></a>
-  <a href="https://thegraph.com/"><img src="https://img.shields.io/badge/The%20Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white&labelColor=050816" height="30" alt="The Graph" /></a>
-  <a href="https://uniswap.org/"><img src="https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white&labelColor=050816" height="30" alt="Uniswap" /></a>
-  <a href="https://www.openzeppelin.com/"><img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white&labelColor=050816" height="30" alt="OpenZeppelin" /></a>
+  <a href="https://ethereum.org/"><img src="https://skillicons.dev/icons?i=ethereum&theme=dark" height="30" alt="Ethereum" /></a>
+  <a href="https://solana.com/"><img src="https://skillicons.dev/icons?i=solana&theme=dark" height="30" alt="Solana" /></a>
+  <a href="https://stellar.org/"><img src="https://skillicons.dev/icons?i=stellar&theme=dark" height="30" alt="Stellar" /></a>
+  <a href="https://base.org/"><img src="https://skillicons.dev/icons?i=base&theme=dark" height="30" alt="Base" /></a>
+  <a href="https://aptos.dev/"><img src="https://skillicons.dev/icons?i=aptos&theme=dark" height="30" alt="Aptos" /></a>
+  <a href="https://polygon.technology/"><img src="https://skillicons.dev/icons?i=polygon&theme=dark" height="30" alt="Polygon" /></a>
+  <a href="https://arbitrum.io/"><img src="https://skillicons.dev/icons?i=arbitrum&theme=dark" height="30" alt="Arbitrum" /></a>
+  <a href="https://www.optimism.io/"><img src="https://skillicons.dev/icons?i=optimism&theme=dark" height="30" alt="Optimism" /></a>
+  <a href="https://www.avax.network/"><img src="https://skillicons.dev/icons?i=avalanche&theme=dark" height="30" alt="Avalanche" /></a>
+  <a href="https://near.org/"><img src="https://skillicons.dev/icons?i=near&theme=dark" height="30" alt="NEAR Protocol" /></a>
+  <a href="https://sui.io/"><img src="https://skillicons.dev/icons?i=sui&theme=dark" height="30" alt="Sui" /></a>
+  <a href="https://www.cosmos.network/"><img src="https://skillicons.dev/icons?i=cosmos&theme=dark" height="30" alt="Cosmos" /></a>
+  <a href="https://chain.link/"><img src="https://skillicons.dev/icons?i=chainlink&theme=dark" height="30" alt="Chainlink" /></a>
+  <a href="https://ipfs.tech/"><img src="https://skillicons.dev/icons?i=ipfs&theme=dark" height="30" alt="IPFS" /></a>
+  <a href="https://metamask.io/"><img src="https://skillicons.dev/icons?i=metamask&theme=dark" height="30" alt="MetaMask" /></a>
+  <a href="https://hardhat.org/"><img src="https://skillicons.dev/icons?i=hardhat&theme=dark" height="30" alt="Hardhat" /></a>
+  <a href="https://ethers.org/"><img src="https://skillicons.dev/icons?i=ethers&theme=dark" height="30" alt="Ethers.js" /></a>
+  <a href="https://web3js.org/"><img src="https://skillicons.dev/icons?i=web3js&theme=dark" height="30" alt="Web3.js" /></a>
+  <a href="https://thegraph.com/"><img src="https://skillicons.dev/icons?i=thegraph&theme=dark" height="30" alt="The Graph" /></a>
+  <a href="https://uniswap.org/"><img src="https://skillicons.dev/icons?i=uniswap&theme=dark" height="30" alt="Uniswap" /></a>
+  <a href="https://www.openzeppelin.com/"><img src="https://skillicons.dev/icons?i=openzeppelin&theme=dark" height="30" alt="OpenZeppelin" /></a>
 </p>
 
 ### Data, Databases & AI
@@ -128,14 +128,14 @@ I’m equally happy exploring a new framework, tuning hardware, debugging a stub
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" /></a>
   <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis" /></a>
   <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" alt="Firebase" /></a>
-  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=050816" height="30" alt="Supabase" /></a>
-  <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white&labelColor=050816" height="30" alt="Prisma" /></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="30" alt="Supabase" /></a>
+  <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="30" alt="Prisma" /></a>
   <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" alt="Pandas" /></a>
   <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" alt="PyTorch" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" alt="TensorFlow" /></a>
   <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" alt="Jupyter" /></a>
-  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white&labelColor=050816" height="30" alt="OpenAI" /></a>
+  <a href="https://openai.com/"><img src="https://skillicons.dev/icons?i=openai&theme=dark" height="30" alt="OpenAI" /></a>
 </p>
 
 ### Cloud, DevOps, Testing & Tooling
@@ -146,19 +146,19 @@ I’m equally happy exploring a new framework, tuning hardware, debugging a stub
   <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" alt="AWS" /></a>
   <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" alt="Google Cloud" /></a>
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" alt="Microsoft Azure" /></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816" height="30" alt="Vercel" /></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="30" alt="Vercel" /></a>
   <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="42" alt="Terraform" /></a>
   <a href="https://nginx.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" alt="Nginx" /></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" /></a>
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub" /></a>
   <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="42" alt="GitLab" /></a>
-  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=050816" height="30" alt="GitHub Actions" /></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="30" alt="GitHub Actions" /></a>
   <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42" alt="Jest" /></a>
-  <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=050816" height="30" alt="Playwright" /></a>
-  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=050816" height="30" alt="Postman" /></a>
+  <a href="https://playwright.dev/"><img src="https://skillicons.dev/icons?i=playwright&theme=dark" height="30" alt="Playwright" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="30" alt="Postman" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" alt="Visual Studio Code" /></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="42" alt="PyCharm" /></a>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=050816" height="30" alt="Figma" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="30" alt="Figma" /></a>
   <a href="https://www.raspberrypi.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="42" alt="Raspberry Pi" /></a>
   <a href="https://www.kaggle.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="42" alt="Kaggle" /></a>
 </p>
